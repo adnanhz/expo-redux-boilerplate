@@ -18,7 +18,7 @@ export default function configureStore(onCompletion: () => void): any {
   const enhancer = compose(
     applyMiddleware(thunk),
     devTools({
-      name: "SheikhApp",
+      name: "MyApp",
       realtime: true
     })
   );
