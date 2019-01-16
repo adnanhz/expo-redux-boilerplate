@@ -18,4 +18,12 @@ The following dependencies are included:
 
 ## Usage
 
-First, clone the project then run `yarn install`.
+`git clone https://github.com/Keftaa/expo-redux-boilerplate.git`
+`yarn install`
+`expo start`
+
+## Complementary Tools
+
+### Redux Devtools
+
+To debug the state of your redux store, you can use http://remotedev.io/local/.
