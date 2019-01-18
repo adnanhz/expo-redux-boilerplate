@@ -10,7 +10,6 @@ The following dependencies are included:
 - react-native 32.0.0
 - react-navigation 3.0.9
 - react-redux 6.0.0
-- react-router-redux 4.0.8
 - redux 4.0.1
 - redux-persist 5.10.0
 - redux-thunk 2.3.0
@@ -18,9 +17,9 @@ The following dependencies are included:
 
 ## Usage
 
-`git clone https://github.com/Keftaa/expo-redux-boilerplate.git`
-`yarn install`
-`expo start`
+`git clone https://github.com/Keftaa/expo-redux-boilerplate.git`  
+`yarn install`  
+`expo start`  
 
 ## Complementary Tools
 
