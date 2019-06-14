@@ -5,7 +5,7 @@ import App from "../App";
 import configureStore from "./configureStore";
 
 export default class Setup extends Component {
-  state: {
+  state = {
     store: Object,
     isLoading: boolean,
     isReady: boolean
