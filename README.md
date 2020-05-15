@@ -1,3 +1,6 @@
+# DEPRECATED  
+I am no longer maintaining this project. Use at your own risk.
+
 # Expo Redux Boilerplate
 A react-native boilerplate created with expo-cli and yarn. It contains a ready-to-use redux store alongside redux-navigation and some example code to help you get started.
 
